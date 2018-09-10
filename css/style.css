@@ -1,0 +1,17 @@
+/* line 1, ../scss/style.scss */
+.myclass {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+/* line 6, ../scss/style.scss */
+/* .col-8 {
+  background-color: green;
+  border: 2px blue solid;
+  border-radius: 5px;
+}
+ */
+ .row{
+ 	margin:10px;
+ }
