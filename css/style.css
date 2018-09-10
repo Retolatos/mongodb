@@ -1,4 +1,7 @@
 /* line 1, ../scss/style.scss */
+body{
+	background-color:brown;
+}
 .myclass {
   width: 100px;
   height: 100px;
